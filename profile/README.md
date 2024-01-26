@@ -1,5 +1,3 @@
-<br />
-
 <h2 align="center">✨ Southern Aurora</h2>
 
 <p align="center">Here's a Collection of All the Fun Creations from My Friends and Me</p>
